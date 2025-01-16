@@ -1,0 +1,2 @@
+# InShort
+Inshort app clone
